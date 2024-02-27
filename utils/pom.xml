@@ -10,6 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <groupId>b1skeetz.org</groupId>
     <artifactId>utils</artifactId>
     <version>1.0.0</version>
 
